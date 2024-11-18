@@ -8,7 +8,7 @@ import DashboardLayout from "../layout/DashboardLayout";
 import Dashboard from "../pages/Dashboard/Dashboard";
 import ManageUsers from "../pages/Dashboard/Admin/users/ManageUsers";
 import UpdateUser from "../pages/Dashboard/Admin/users/UpdateUser";
-import Classes from "../pages/classes/Classes";
+import Classes from "../pages/Classes/Classes";
 import ErrorPage from "../pages/error/ErrorPage";
 import AddClass from "../pages/Dashboard/Instructors/AddClass";
 import MyClasses from "../pages/Dashboard/Instructors/MyClasses";
